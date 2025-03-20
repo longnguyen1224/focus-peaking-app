@@ -24,9 +24,9 @@ The Focus Peaking Video App applies a focus peaking effect to a provided video, 
 
 # Installation
 
-^ Step 1: Clone the Repository
+Step 1: Clone the Repository
 
-* Step 2: Install Dependencies
+Step 2: Install Dependencies
 This script will:
 ** Install necessary system dependencies (Python, Node.js, OpenCV, etc.)
 ** Set up a virtual environment for Python
